@@ -1,1 +1,1 @@
-# mmall_v1
+mmall_learning
